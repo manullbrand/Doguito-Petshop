@@ -1,0 +1,8 @@
+## No arquivo de validacao.js:
+
+// Esse código não é uma boa prática, pois pegar input por seletor é muito específico. Se você precisar do mesmo código para outro seletor, o códgio começa inchado. Então faço um "export" de uma function de validação, como fiz log abaixo.
+//const dataNascimento = document.querySelector("#nascimento");
+
+// dataNascimento.addEventListener("blur", (evento) => {
+//   validaDataNascimento(evento.target);
+// });
