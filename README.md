@@ -38,7 +38,7 @@ Contributions are welcome! If you'd like to contribute to the project, feel free
 
 If you have any questions or suggestions, please feel free to reach out:
 
-- LinkedIn: [www.linkedin.com/in/manulbrandao](www.linkedin.com/in/manulbrandao)
+- LinkedIn: [www.linkedin.com/in/manulbrandao](https://www.linkedin.com/in/manulbrandao)
 - GitHub: [manullbrand](https://github.com/manullbrand)
 
 Thank you for your interest in Doguito Petshop! Happy coding! 🐾
